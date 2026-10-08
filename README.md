@@ -1,2 +1,2 @@
-# starsparrowgame.github.i
+# starsparrowgame.github.io
 Star Sparrow support site
